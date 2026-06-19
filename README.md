@@ -24,7 +24,7 @@ Visual Studio, VS Code
 
 What I'm Up To Right Now
 
-**Active C# Learning: **Transitioning my strong Java/C++ OOP foundations into writing production-ready C# code.
+Active C# Learning: Transitioning my strong Java/C++ OOP foundations into writing production-ready C# code.
 
 **Project in Progress:** Building a Patient & Student Record Management Console App using C# and .NET Core.
 
@@ -40,7 +40,7 @@ Implemented inheritance, interfaces, and encapsulation structures.
 
 Created robust exception-handling routines to prevent run-time crashes.
 
-** OOP Library Management System (Java)**
+ OOP Library Management System (Java)
 
 A modular desktop system built to process member registrations, search logs, and transaction systems.
 
