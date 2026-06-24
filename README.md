@@ -3,9 +3,9 @@ I'm Abdul Muneeb
 Aspiring C# & .NET Backend Developer | BS Computer Science Student
 
 I am a disciplined and self-driven Computer Science student passionate about building efficient, robust, and scalable backend systems. Currently, I am focused on mastering the C# and .NET ecosystem while leveraging my solid academic foundation in Object-Oriented Programming (OOP), Data Structures, and Relational Databases.
-**
+
  My Tech Stack
-**
+
 Languages
 
 C# (Primary Focus), Java, C++, SQL, PHP, HTML5 / CSS3, JavaScriptbasic 
